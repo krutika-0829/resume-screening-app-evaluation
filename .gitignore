@@ -1,0 +1,11 @@
+.env
+temp.pdf
+temp_*
+__pycache__/
+*.pyc
+extracted_info.json
+golden_dataset.json
+ragas_input_data.json
+ragas_results.csv
+retrieval_results.json
+backup_requirements.txt
