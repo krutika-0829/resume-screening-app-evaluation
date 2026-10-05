@@ -9,3 +9,5 @@ ragas_input_data.json
 ragas_results.csv
 retrieval_results.json
 backup_requirements.txt
+Dockerfile
+
